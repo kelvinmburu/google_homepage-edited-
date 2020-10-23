@@ -1,0 +1,1 @@
+After trying to build the Google Homepage the first time, I'm rebuilding it a second time with in a better way
